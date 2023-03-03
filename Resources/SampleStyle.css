@@ -1,7 +1,10 @@
 /*
     place extra stylesheet here
 */
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light+Two&display=swap');
 
 .ImageContainer img {
     border: solid 2px #999;
 }
+h2{
+    font-family: 'Shadows Into Light Two', cursive;}
